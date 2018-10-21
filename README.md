@@ -3,7 +3,7 @@ Coursera - Exploratory Data Analysis
 
 This repositry has all the codes written for the course Exploratory Data Analysis and for the two course Projects-
 
-1. EDA of House Power Consumption data
+1. EDA of Household Power Consumption data
 
 Overview :
 
